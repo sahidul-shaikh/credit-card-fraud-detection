@@ -23,7 +23,7 @@ Credit card fraud is any dishonest act and behaviour to obtain information witho
 - Manipulation/alteration of genuine cards
 - Creation of counterfeit cards
 - Stolen/lost credit cards
-- Fraudulent telemarketing
+- Fraudulent telemarketing 
 
 ## Data Dictionary
 
